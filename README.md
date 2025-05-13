@@ -9,3 +9,6 @@ This is a message from the `dev` branch
 
 # Testing
 This is a test for conflicts
+
+# From `dev` branch
+This is a message from the `dev` branch
